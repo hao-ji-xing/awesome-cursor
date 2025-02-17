@@ -32,3 +32,4 @@ A list of cursor topics.
 ## Other
  
 - [Older versions Cursor](https://github.com/oslook/cursor-ai-downloads): Provide links to download older versions of Cursor.
+- [curxy](https://github.com/ryoppippi/curxy): Simple proxy worker for using ollama in cursor
