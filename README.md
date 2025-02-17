@@ -34,6 +34,3 @@ A list of cursor topics.
 - [cursor.directory](https://github.com/pontusab/cursor.directory)
   * Find the best cursor rules for your framework and language
  
-## App
-- 
-  
