@@ -1,4 +1,4 @@
-# Awesome cursor
+# Awesome Cursor
 
 Collect tools related to Cursor (AI Code Editor).
 
