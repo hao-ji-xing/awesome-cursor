@@ -38,3 +38,8 @@ A list of cursor topics.
 
 - [smithery.ai](https://smithery.ai/)
   * Smithery is a platform to help developers find and ship language model extensions compatible with the Model Context Protocol Specification.
+ 
+## Other
+ 
+- [Older versions Cursor](https://github.com/oslook/cursor-ai-downloads)
+  * The reason for maintaining a list of versions is that some older versions offer a better user experience, allowing users the freedom to choose. Since Cursor AI automatically upgrades to the latest version, we provide download links for the older versions.
