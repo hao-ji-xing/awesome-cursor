@@ -12,6 +12,8 @@ A list of cursor topics.
   * Give Cursor Agent an AI Team and Advanced Skills
 - [CursorLens](https://github.com/HamedMP/CursorLens)
   * An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version.
+- [Chrome Debug Monitor](https://github.com/Maxteabag/cursor-chrome-composer)
+  * A powerful integration between Chrome's DevTools Protocol and Cursor Composer for real-time debugging and monitoring.
 
 
 ## Extensions
@@ -29,3 +31,9 @@ A list of cursor topics.
   * Magic to turn Cursor/Windsurf as 90% of Devin
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules)
   * 📄 A curated list of awesome .cursorrules files
+- [cursor.directory](https://github.com/pontusab/cursor.directory)
+  * Find the best cursor rules for your framework and language
+ 
+## App
+- 
+  
