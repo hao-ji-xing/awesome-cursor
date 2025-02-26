@@ -16,7 +16,7 @@ A list of cursor topics.
 ## Extensions
 
 - [Composer Web](https://github.com/saketsarin/composer-web): Cursor extension that forwards frontend errors and screenshots to composer in one-click, making development seamless for you
-- [specstory](https://github.com/specstoryai/getspecstory): Capture, search and learn from every AI coding journey; Transform your AI interactions into a living spec. Accelerate your software composition workflow.
+- [specstory](https://github.com/specstoryai/getspecstory): SpecStory automatically saves every Cursor chat and composer session to your local project's .specstory directory.
 - [Cursor Stats](https://github.com/Dwtexe/cursor-stats): A Cursor extension that displays your Cursor Subscription usage statistics in the status bar.
  
 ## Rules
