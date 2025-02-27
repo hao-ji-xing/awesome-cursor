@@ -24,6 +24,8 @@ A list of cursor topics.
 - [devin.cursorrules](https://github.com/grapeot/devin.cursorrules): Magic to turn Cursor/Windsurf as 90% of Devin
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules): 📄 A curated list of awesome .cursorrules files
 - [cursor.directory](https://github.com/pontusab/cursor.directory): Find the best cursor rules for your framework and language
+- [Cursor Automatic Rules Generation](https://github.com/bmadcode/cursor-auto-rules-agile-workflow/tree/main): Cursor Automatic Rules Generation with Agile Cursor Workflow Template
+
  
 ## Services
 
