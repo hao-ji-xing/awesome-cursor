@@ -35,3 +35,4 @@ A list of cursor topics.
  
 - [Older versions Cursor](https://github.com/oslook/cursor-ai-downloads): Provide links to download older versions of Cursor.
 - [curxy](https://github.com/ryoppippi/curxy): Simple proxy worker for using ollama in cursor
+- [CursorFocus](https://github.com/Dror-Bengal/CursorFocus): A lightweight tool that maintains a focused view of your project structure and environment. CursorFocus automatically tracks your project files, functions, and environment variables, updating every 60 seconds to keep you informed of changes.
