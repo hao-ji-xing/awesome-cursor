@@ -26,6 +26,7 @@ A list of cursor topics.
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules): 📄 A curated list of awesome .cursorrules files
 - [cursor.directory](https://github.com/pontusab/cursor.directory): Find the best cursor rules for your framework and language
 - [Cursor Automatic Rules Generation](https://github.com/bmadcode/cursor-auto-rules-agile-workflow/tree/main): Cursor Automatic Rules Generation with Agile Cursor Workflow Template
+- [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc): Curated list of awesome Cursor Rules .mdc files
 
  
 ## Services
