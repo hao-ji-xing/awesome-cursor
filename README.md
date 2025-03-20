@@ -1,3 +1,12 @@
+# Awesome Cursor
+
+A curated collection of tools and resources for Cursor (AI Code Editor).
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hao-ji-xing/awesome-cursor) 
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/hao-ji-xing/awesome-cursor)
+
+A list of cursor topics.
+
 ## Projects
 - [Cursor tools](https://github.com/eastlondoner/cursor-tools): Give Cursor Agent an AI Team and Advanced Skills  ![GitHub Repo stars](https://img.shields.io/github/stars/eastlondoner/cursor-tools) 
 - [CursorLens](https://github.com/HamedMP/CursorLens): An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version. ![GitHub Repo stars](https://img.shields.io/github/stars/HamedMP/CursorLens)
@@ -23,9 +32,11 @@
 
 - [llm-router](https://github.com/kcolemangt/llm-router): Access models from OpenAI, Groq, local Ollama, and other providers by setting LLM-router as the base URL in Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/kcolemangt/llm-router)
 
-## Services
+## MCPs
 
 - [smithery.ai](https://smithery.ai/): Smithery is a platform to help developers find and ship language model extensions compatible with the Model Context Protocol Specification.
+- [cursor-mcp-installer](https://github.com/matthewdcage/cursor-mcp-installer): Installs MCPs in cursor for you, give it a git URL and let it rip.  ![GitHub Repo stars](https://img.shields.io/github/stars/matthewdcage/cursor-mcp-installer)
+
 
 
 ## Other
