@@ -18,9 +18,15 @@
 - [Cursor Automatic Rules Generation](https://github.com/bmadcode/cursor-auto-rules-agile-workflow/tree/main): Cursor Automatic Rules Generation with Agile Cursor Workflow Template. ![GitHub Repo stars](https://img.shields.io/github/stars/bmadcode/cursor-auto-rules-agile-workflow)
 - [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc): Curated list of awesome Cursor Rules .mdc files. ![GitHub Repo stars](https://img.shields.io/github/stars/sanjeed5/awesome-cursor-rules-mdc)
 
+
+## Models
+
+- [llm-router](https://github.com/kcolemangt/llm-router): Access models from OpenAI, Groq, local Ollama, and other providers by setting LLM-router as the base URL in Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/kcolemangt/llm-router)
+
 ## Services
 
 - [smithery.ai](https://smithery.ai/): Smithery is a platform to help developers find and ship language model extensions compatible with the Model Context Protocol Specification.
+
 
 ## Other
 
