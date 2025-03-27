@@ -26,6 +26,7 @@ A list of cursor topics.
 - [cursor.directory](https://github.com/pontusab/cursor.directory): Find the best cursor rules for your framework and language. ![GitHub Repo stars](https://img.shields.io/github/stars/pontusab/cursor.directory)
 - [Cursor Automatic Rules Generation](https://github.com/bmadcode/cursor-auto-rules-agile-workflow/tree/main): Cursor Automatic Rules Generation with Agile Cursor Workflow Template. ![GitHub Repo stars](https://img.shields.io/github/stars/bmadcode/cursor-auto-rules-agile-workflow)
 - [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc): Curated list of awesome Cursor Rules .mdc files. ![GitHub Repo stars](https://img.shields.io/github/stars/sanjeed5/awesome-cursor-rules-mdc)
+- [cursorkleosr](https://github.com/kleosr/cursorkleosr): This project provides a streamlined way to work with AI assistants (like Claude or GPT-4) inside the Cursor IDE, making development more autonomous and consistent. It helps the AI remember project context and follow a structured process, even across different sessions. Think of it as giving your AI assistant a reliable memory and a clear playbook.  ![GitHub Repo stars](https://img.shields.io/github/stars/kleosr/cursorkleosr)
 
 
 ## Models
