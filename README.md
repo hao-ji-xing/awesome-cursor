@@ -27,6 +27,7 @@ A list of cursor topics.
 - [Cursor Automatic Rules Generation](https://github.com/bmadcode/cursor-auto-rules-agile-workflow/tree/main): Cursor Automatic Rules Generation with Agile Cursor Workflow Template. ![GitHub Repo stars](https://img.shields.io/github/stars/bmadcode/cursor-auto-rules-agile-workflow)
 - [awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc): Curated list of awesome Cursor Rules .mdc files. ![GitHub Repo stars](https://img.shields.io/github/stars/sanjeed5/awesome-cursor-rules-mdc)
 - [cursorkleosr](https://github.com/kleosr/cursorkleosr): This project provides a streamlined way to work with AI assistants (like Claude or GPT-4) inside the Cursor IDE, making development more autonomous and consistent. It helps the AI remember project context and follow a structured process, even across different sessions. Think of it as giving your AI assistant a reliable memory and a clear playbook.  ![GitHub Repo stars](https://img.shields.io/github/stars/kleosr/cursorkleosr)
+- [cursor-custom-agents-rules-generator](https://github.com/bmadcode/cursor-custom-agents-rules-generator): Maximize the potential of Cursor best practices for Automatic Rule and Custom Agent Generation and Agile Workflows  ![GitHub Repo stars](https://img.shields.io/github/stars/bmadcode/cursor-custom-agents-rules-generator)
 
 
 ## Models
