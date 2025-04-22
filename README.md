@@ -41,6 +41,9 @@ A list of cursor topics.
 - [browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp): Monitor browser logs directly from Cursor and other MCP compatible IDEs.  ![GitHub Repo stars](https://img.shields.io/github/stars/AgentDeskAI/browser-tools-mcp)
 - [Cursor MCP](https://github.com/johnneerdael/multiplatform-cursor-mcp): Cursor MCP is a bridge between Claude's desktop application and the Cursor editor, enabling seamless AI-powered automation and multi-instance management. It's part of the broader Model Context Protocol (MCP) ecosystem, allowing Cursor to interact with various AI models and services through standardized interfaces.  ![GitHub Repo stars](https://img.shields.io/github/stars/johnneerdael/multiplatform-cursor-mcp)
 - [context7](https://github.com/upstash/context7): Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors. ![GitHub Repo stars](https://img.shields.io/github/stars/upstash/context7)
+- [claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. ![GitHub Repo stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master)
+
+
 
 
 ## Other
