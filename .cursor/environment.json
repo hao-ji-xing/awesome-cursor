@@ -1,0 +1,9 @@
+{
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": "."
+  },
+  "terminals": [],
+  "install": "echo 1",
+  "start": "echo 2"
+}
