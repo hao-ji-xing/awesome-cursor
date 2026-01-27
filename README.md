@@ -47,6 +47,10 @@ A list of cursor topics.
 
 
 
+## Config Sync
+
+- [vsync](https://github.com/nicepkg/vsync): Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex. One command syncs everything with automatic format conversion. ![GitHub Repo stars](https://img.shields.io/github/stars/nicepkg/vsync)
+
 ## Other
 
 - [Older versions Cursor](https://github.com/oslook/cursor-ai-downloads): Provide links to download older versions of Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/oslook/cursor-ai-downloads)
