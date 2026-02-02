@@ -47,6 +47,10 @@ A list of cursor topics.
 
 
 
+## Skills
+- [humanizerai](https://github.com/humanizerai/agent-skills): Detect AI-generated text and humanize it to bypass AI detectors like GPTZero, Turnitin. Works with Cursor via Agent Skills format. Install: `npx skills add humanizerai/agent-skills`. [Website](https://humanizerai.com) ![GitHub Repo stars](https://img.shields.io/github/stars/humanizerai/agent-skills)
+
+
 ## Other
 
 - [Older versions Cursor](https://github.com/oslook/cursor-ai-downloads): Provide links to download older versions of Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/oslook/cursor-ai-downloads)
