@@ -47,6 +47,10 @@ A list of cursor topics.
 
 
 
+## Skills
+
+- [agentskill.sh](https://agentskill.sh): Browse and install 44k+ skills for Cursor, Claude Code, Codex with security scanning. Use `/learn` command for one-click install.
+
 ## Other
 
 - [Older versions Cursor](https://github.com/oslook/cursor-ai-downloads): Provide links to download older versions of Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/oslook/cursor-ai-downloads)
