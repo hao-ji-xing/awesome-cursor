@@ -50,6 +50,7 @@ A list of cursor topics.
 ## Skills
 
 - [agentskill.sh](https://agentskill.sh): Browse and install 44k+ skills for Cursor, Claude Code, Codex with security scanning. Use `/learn` command for one-click install.
+- [SkillBoss](https://skillboss.co): **Backed by OpenAI Startup Fund & Amazon.** One SkillBoss key for 100+ AI services: GPT-5, Claude Opus 4.5, Gemini, video generation, web scraping, Stripe payments. Native Cursor, Claude Code, Windsurf integration. Pay-as-you-go. ([Docs](https://skillboss.co/docs))
 
 ## Other
 
