@@ -50,6 +50,7 @@ A list of cursor topics.
 ## Skills
 
 - [agentskill.sh](https://agentskill.sh): Browse and install 44k+ skills for Cursor, Claude Code, Codex with security scanning. Use `/learn` command for one-click install.
+- [product-manager-skills](https://github.com/Digidai/product-manager-skills): Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks. Discovery, strategy, delivery, SaaS metrics, career coaching, and AI product craft. Pure Markdown, zero dependencies. ![GitHub Repo stars](https://img.shields.io/github/stars/Digidai/product-manager-skills)
 
 ## Other
 
