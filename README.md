@@ -20,6 +20,14 @@ A list of cursor topics.
 - [Cursor Stats](https://github.com/Dwtexe/cursor-stats): A Cursor extension that displays your Cursor Subscription usage statistics in the status bar. ![GitHub Repo stars](https://img.shields.io/github/stars/Dwtexe/cursor-stats)
 - [stagewise](https://github.com/stagewise-io/stagewise): stagewise is a browser toolbar that connects your frontend UI to your code ai agents in your code editor. ![GitHub Repo stars](https://img.shields.io/github/stars/stagewise-io/stagewise)
 
+## Plugins
+
+- [Cursor Plugin Factory](https://github.com/ofershap/cursor-plugin-factory): 16 open-source plugins for Cursor covering framework best practices, security, and behavior modifiers. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/cursor-plugin-factory)
+- [vibe-guard](https://github.com/ofershap/vibe-guard): Always-on security guardrails for AI-generated code. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/vibe-guard)
+- [think-first](https://github.com/ofershap/think-first): Plan-before-code behavior modifier. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/think-first)
+- [tailwind-best-practices](https://github.com/ofershap/tailwind-best-practices): Stop agents from generating Tailwind v3 code. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/tailwind-best-practices)
+- [typescript-best-practices](https://github.com/ofershap/typescript-best-practices): Modern TypeScript patterns for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/typescript-best-practices)
+
 ## Rules
 
 - [devin.cursorrules](https://github.com/grapeot/devin.cursorrules): Magic to turn Cursor/Windsurf as 90% of Devin. ![GitHub Repo stars](https://img.shields.io/github/stars/grapeot/devin.cursorrules)
