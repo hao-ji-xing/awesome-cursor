@@ -12,6 +12,7 @@ A list of cursor topics.
 - [CursorLens](https://github.com/HamedMP/CursorLens): An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version. ![GitHub Repo stars](https://img.shields.io/github/stars/HamedMP/CursorLens)
 - [Chrome Debug Monitor](https://github.com/Maxteabag/cursor-chrome-composer): A powerful integration between Chrome's DevTools Protocol and Cursor Composer for real-time debugging and monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/Maxteabag/cursor-chrome-composer)
 - [cursor-tools](https://github.com/dougwithseismic/cursor-tools): A powerful desktop application for managing and enhancing your Cursor IDE notepads, built with Electron, React, and TypeScript. ![GitHub Repo stars](https://img.shields.io/github/stars/dougwithseismic/cursor-tools)
+- [BurnRate](https://github.com/burnrate-dev/burnrate): AI coding cost analytics CLI that tracks usage and costs across 7 providers (Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, Codex) with a real-time dashboard, 46 optimization rules, and rate limit monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/burnrate-dev/burnrate)
 
 ## Extensions
 
