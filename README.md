@@ -115,6 +115,7 @@
 
 ## Showcase
 
+- [Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52) - A 4-role autonomous AI dev team system for Cursor IDE. PM/DEV/OPS/QA agents collaborate via file-based protocol. Includes auto patrol bot, role templates, and .mdc rule files. Battle-tested with 91 production deployments.
 - Notable projects using Cursor
 - Success stories
 - Feature demonstrations
