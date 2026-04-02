@@ -50,6 +50,7 @@ A list of cursor topics.
 ## Skills
 
 - [agentskill.sh](https://agentskill.sh): Browse and install 44k+ skills for Cursor, Claude Code, Codex with security scanning. Use `/learn` command for one-click install.
+- [TokRepo Search Skill](https://github.com/henu-wang/tokrepo-search-skill): Cross-platform TokRepo skill for finding and installing AI assets including Cursor rules, MCP configs, prompts, and workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/henu-wang/tokrepo-search-skill)
 
 ## Other
 
