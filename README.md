@@ -50,6 +50,7 @@ A list of cursor topics.
 ## Skills
 
 - [agentskill.sh](https://agentskill.sh): Browse and install 44k+ skills for Cursor, Claude Code, Codex with security scanning. Use `/learn` command for one-click install.
+- [code-tour](https://github.com/vaddisrinivas/code-tour): AI-generated CodeTour walkthroughs for any codebase. Creates persona-targeted .tour files with step-by-step explanations linked to real files and line numbers. Works with VS Code CodeTour extension. ![GitHub Repo stars](https://img.shields.io/github/stars/vaddisrinivas/code-tour)
 
 ## Other
 
