@@ -50,6 +50,7 @@ A list of cursor topics.
 ## Skills
 
 - [agentskill.sh](https://agentskill.sh): Browse and install 44k+ skills for Cursor, Claude Code, Codex with security scanning. Use `/learn` command for one-click install.
+- [seo-analysis](https://github.com/nowork-studio/toprank/blob/main/seo/seo-analysis/SKILL.md): SEO audit skill for Cursor, Claude Code, and Codex with Search Console, PageSpeed, keyword research, metadata, and schema checks. ![GitHub Repo stars](https://img.shields.io/github/stars/nowork-studio/toprank)
 
 ## Other
 
