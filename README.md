@@ -46,6 +46,8 @@ A list of cursor topics.
 
 
 
+- [EGC](https://github.com/Fmarzochi/EGC): Persistent cross-session memory for Cursor and 12 other AI coding tools. SQLite-backed state survives context resets. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC)
+
 
 ## Skills
 
