@@ -11,6 +11,7 @@ A list of cursor topics.
 - [Cursor tools](https://github.com/eastlondoner/cursor-tools): Give Cursor Agent an AI Team and Advanced Skills  ![GitHub Repo stars](https://img.shields.io/github/stars/eastlondoner/cursor-tools) 
 - [CursorLens](https://github.com/HamedMP/CursorLens): An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version. ![GitHub Repo stars](https://img.shields.io/github/stars/HamedMP/CursorLens)
 - [Chrome Debug Monitor](https://github.com/Maxteabag/cursor-chrome-composer): A powerful integration between Chrome's DevTools Protocol and Cursor Composer for real-time debugging and monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/Maxteabag/cursor-chrome-composer)
+- [Coco](https://github.com/rkz91/coco): 389-expert advisory board (9 teams) with optional `--debate` deliberation, 146 skills, 277 commands, and multi-agent orchestration for Cursor (also Claude Code and Codex). MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/rkz91/coco)
 - [cursor-tools](https://github.com/dougwithseismic/cursor-tools): A powerful desktop application for managing and enhancing your Cursor IDE notepads, built with Electron, React, and TypeScript. ![GitHub Repo stars](https://img.shields.io/github/stars/dougwithseismic/cursor-tools)
 
 ## Extensions
