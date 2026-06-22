@@ -35,6 +35,7 @@ A list of cursor topics.
 ## Models
 
 - [llm-router](https://github.com/kcolemangt/llm-router): Access models from OpenAI, Groq, local Ollama, and other providers by setting LLM-router as the base URL in Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/kcolemangt/llm-router)
+- [Lynkr](https://github.com/Fast-Editor/Lynkr): Self-hosted LLM gateway (Apache 2.0, Node.js) — drop-in proxy for Cursor with tier-based routing across 12+ providers (Ollama, llama.cpp, LM Studio, MLX, Bedrock, OpenRouter, Azure, Vertex, DeepSeek, Moonshot). MCP Code Mode collapses 100+ tools into 4 meta-tools.
 
 ## MCPs
 
