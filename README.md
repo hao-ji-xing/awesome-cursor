@@ -48,6 +48,7 @@ A list of cursor topics.
 
 
 - [EGC](https://github.com/Fmarzochi/EGC): Persistent cross-session memory for Cursor and 12 other AI coding tools. SQLite-backed state survives context resets. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC)
+- [Falconer](https://github.com/FalconerAI/agent-integrations): Hosted MCP server that gives Cursor's agent trusted access to a company's living documentation — search, read, and update engineering docs, runbooks, decisions, and code context. Setup at https://falconer.com/mcp. ![GitHub Repo stars](https://img.shields.io/github/stars/FalconerAI/agent-integrations)
 
 
 ## Skills
