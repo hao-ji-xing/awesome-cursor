@@ -48,6 +48,7 @@ A list of cursor topics.
 
 
 - [EGC](https://github.com/Fmarzochi/EGC): Persistent cross-session memory for Cursor and 12 other AI coding tools. SQLite-backed state survives context resets. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC)
+- [aide-memory](https://github.com/aide-memory/aide-memory): Persistent, path-scoped memory for AI coding agents (Claude Code, Cursor, Devin). 7 MCP tools plus auto-capture/recall hooks; memories are plain JSON committed in your repo and synced via git. ![GitHub Repo stars](https://img.shields.io/github/stars/aide-memory/aide-memory)
 
 
 ## Skills
