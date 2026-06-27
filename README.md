@@ -48,6 +48,7 @@ A list of cursor topics.
 
 
 - [EGC](https://github.com/Fmarzochi/EGC): Persistent cross-session memory for Cursor and 12 other AI coding tools. SQLite-backed state survives context resets. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC)
+- [Vestige](https://github.com/samvallad33/vestige): Local-first cognitive memory MCP server for Cursor and other AI coding agents. SQLite storage, FSRS-6 retention, active forgetting, hybrid retrieval, and correction tools. ![GitHub Repo stars](https://img.shields.io/github/stars/samvallad33/vestige)
 
 
 ## Skills
