@@ -48,6 +48,7 @@ A list of cursor topics.
 
 
 - [EGC](https://github.com/Fmarzochi/EGC): Persistent cross-session memory for Cursor and 12 other AI coding tools. SQLite-backed state survives context resets. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC)
+- [Shots](https://github.com/hitSlop/shots): App Store screenshot, app icon, and ASO listing copy generation for mobile apps through hosted MCP server. Remote endpoint: `https://shots.run/api/mcp`. ![GitHub Repo stars](https://img.shields.io/github/stars/hitSlop/shots)
 
 
 ## Skills
