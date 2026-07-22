@@ -53,6 +53,7 @@ A list of cursor topics.
 ## Skills
 
 - [agentskill.sh](https://agentskill.sh): Browse and install 44k+ skills for Cursor, Claude Code, Codex with security scanning. Use `/learn` command for one-click install.
+- [UIZZE anti-UI-slop](https://uizze.com): Free, MIT-licensed Cursor skill and finish-gate workflow that turns real interface evidence into a product-specific design contract, then blocks generic card grids, filler metrics, missing states, and inert controls before shipping. No account or MCP required. [Source](https://github.com/samuelbushi/uizze). ![GitHub Repo stars](https://img.shields.io/github/stars/samuelbushi/uizze)
 
 ## Other
 
