@@ -48,6 +48,7 @@ A list of cursor topics.
 
 
 - [EGC](https://github.com/Fmarzochi/EGC): Persistent cross-session memory for Cursor and 12 other AI coding tools. SQLite-backed state survives context resets. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC)
+- [MemoryPlugin](https://help.memoryplugin.com/integrations/remote-mcp-server): Long-term memory shared between Cursor and 21+ AI tools (ChatGPT, Claude, Gemini) over MCP. Store, search, and recall memories organized in buckets; hosted remote server with OAuth or local `npx @memoryplugin/mcp-server`.
 
 
 ## Skills
