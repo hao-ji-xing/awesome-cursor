@@ -13,7 +13,7 @@ A list of cursor topics.
 - [Chrome Debug Monitor](https://github.com/Maxteabag/cursor-chrome-composer): A powerful integration between Chrome's DevTools Protocol and Cursor Composer for real-time debugging and monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/Maxteabag/cursor-chrome-composer)
 - [Coco](https://github.com/rkz91/coco): 389-expert advisory board (9 teams) with optional `--debate` deliberation, 146 skills, 277 commands, and multi-agent orchestration for Cursor (also Claude Code and Codex). MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/rkz91/coco)
 - [cursor-tools](https://github.com/dougwithseismic/cursor-tools): A powerful desktop application for managing and enhancing your Cursor IDE notepads, built with Electron, React, and TypeScript. ![GitHub Repo stars](https://img.shields.io/github/stars/dougwithseismic/cursor-tools)
-- [Agent Island](https://github.com/tristan666666/agent-island): Menu bar and notch status companion for Cursor, Claude Code, Codex, Gemini CLI and Grok. Shows live session state, alerts you when a run is waiting on your turn, and computes usage and cost locally. ![GitHub Repo stars](https://img.shields.io/github/stars/tristan666666/agent-island?style=social)
+- [Agent Island](https://github.com/tristan666666/agent-island): A native macOS/Windows companion that shows Cursor quota and session state at a glance, alongside Claude Code, Codex, Gemini CLI and Grok. Reads local data only, no account required. MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/tristan666666/agent-island)
 
 ## Extensions
 
