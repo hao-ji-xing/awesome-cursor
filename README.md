@@ -49,6 +49,7 @@ A list of cursor topics.
 
 - [EGC](https://github.com/Fmarzochi/EGC): Persistent cross-session memory for Cursor and 12 other AI coding tools. SQLite-backed state survives context resets. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC)
 
+- [Hexis](https://github.com/Bevel-Software/Hexis): Git-backed platform for skills, tools, and context for AI agents, available to Cursor through a remote OAuth MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/Bevel-Software/Hexis)
 
 ## Skills
 
