@@ -49,6 +49,7 @@ A list of cursor topics.
 
 - [EGC](https://github.com/Fmarzochi/EGC): Persistent cross-session memory for Cursor and 12 other AI coding tools. SQLite-backed state survives context resets. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC)
 
+- [ParlayAPI MCP](https://github.com/JacobiusMakes/parlay-api-mcp): Sports odds and source coverage for personal or internal research, with keyless discovery and authenticated access using your own API key. ![GitHub Repo stars](https://img.shields.io/github/stars/JacobiusMakes/parlay-api-mcp)
 
 ## Skills
 
