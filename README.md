@@ -83,6 +83,7 @@ A list of cursor topics.
 - [humanizerai](https://github.com/humanizerai/agent-skills): Detect AI-generated text and humanize it to bypass AI detectors like GPTZero, Turnitin. Works with Cursor via Agent Skills format. Install: `npx skills add humanizerai/agent-skills`. [Website](https://humanizerai.com) ![GitHub Repo stars](https://img.shields.io/github/stars/humanizerai/agent-skills)
 
 - [seo-analysis](https://github.com/nowork-studio/toprank/blob/main/seo/seo-analysis/SKILL.md): SEO audit skill for Cursor, Claude Code, and Codex with Search Console, PageSpeed, keyword research, metadata, and schema checks. ![GitHub Repo stars](https://img.shields.io/github/stars/nowork-studio/toprank)
+- [TokRepo Search Skill](https://github.com/henu-wang/tokrepo-search-skill): Cross-platform TokRepo skill for finding and installing AI assets including Cursor rules, MCP configs, prompts, and workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/henu-wang/tokrepo-search-skill)
 
 ## Other
 
