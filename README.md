@@ -60,6 +60,7 @@ A list of cursor topics.
 - Dominion Observatory](https://dominion-observatory.sgdata.workers.dev): Behavioral trust scoring and CTEF compliance data for 4,500+ MCP servers. Check any server's trust grade and readiness before adding it to your Cursor workflow.
 - [claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. ![GitHub Repo stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master)
 - [Sverklo](https://github.com/sverklo/sverklo): Local-first code intelligence MCP server with hybrid semantic search, symbol graph, blast-radius analysis, diff-aware PR review, and git-pinned memory. ![GitHub Repo stars](https://img.shields.io/github/stars/sverklo/sverklo)
+- [supamem](https://github.com/dzmitrys-dev/supamem/): MCP memory tool usable from Cursor — Qdrant-backed dual-memory for AI coding agents. Persistent semantic + structural memory across Claude Code, Cursor, and OpenCode. ![GitHub Repo stars](https://img.shields.io/github/stars/dzmitrys-dev/supamem)
 
 
 
