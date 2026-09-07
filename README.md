@@ -16,6 +16,7 @@ A list of cursor topics.
 - [BurnRate](https://github.com/burnrate-dev/burnrate): AI coding cost analytics CLI that tracks usage and costs across 7 providers (Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, Codex) with a real-time dashboard, 46 optimization rules, and rate limit monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/burnrate-dev/burnrate)
 - [agenttrace](https://github.com/luoyuctl/agenttrace): A local CLI/TUI for Cursor exports and coding-agent session history diagnostics. ![GitHub Repo stars](https://img.shields.io/github/stars/luoyuctl/agenttrace)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai): A free, open-source desktop app for autonomous coding-agent teams, with Cursor Agent support, task delegation, inter-agent messaging, a live Kanban board, and code review. ![GitHub Repo stars](https://img.shields.io/github/stars/777genius/agent-teams-ai)
+- [cursor-agent-service](https://github.com/AxLabs/cursor-agent-service): Run the Cursor CLI agent worker as a native OS service on Linux (systemd) or macOS (launchd) so you can deploy and run your own self-hosted agents. ![GitHub Repo stars](https://img.shields.io/github/stars/AxLabs/cursor-agent-service)
 
 ## Extensions
 
