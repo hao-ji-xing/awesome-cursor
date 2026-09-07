@@ -71,6 +71,7 @@ A list of cursor topics.
 - [EGC](https://github.com/Fmarzochi/EGC): Persistent cross-session memory for Cursor and 12 other AI coding tools. SQLite-backed state survives context resets. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC)
 - [Falconer](https://github.com/FalconerAI/agent-integrations): Hosted MCP server that gives Cursor's agent trusted access to a company's living documentation — search, read, and update engineering docs, runbooks, decisions, and code context. Setup at https://falconer.com/mcp. ![GitHub Repo stars](https://img.shields.io/github/stars/FalconerAI/agent-integrations)
 - [aide-memory](https://github.com/aide-memory/aide-memory): Persistent, path-scoped memory for AI coding agents (Claude Code, Cursor, Devin). 7 MCP tools plus auto-capture/recall hooks; memories are plain JSON committed in your repo and synced via git. ![GitHub Repo stars](https://img.shields.io/github/stars/aide-memory/aide-memory)
+- [Vestige](https://github.com/samvallad33/vestige): Local-first cognitive memory MCP server for Cursor and other AI coding agents. SQLite storage, FSRS-6 retention, active forgetting, hybrid retrieval, and correction tools. ![GitHub Repo stars](https://img.shields.io/github/stars/samvallad33/vestige)
 
 - [Hexis](https://github.com/Bevel-Software/Hexis): Git-backed platform for skills, tools, and context for AI agents, available to Cursor through a remote OAuth MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/Bevel-Software/Hexis)
 
