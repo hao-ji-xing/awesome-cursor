@@ -58,6 +58,10 @@ A list of cursor topics.
 
 - [vsync](https://github.com/nicepkg/vsync): Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex. One command syncs everything with automatic format conversion. ![GitHub Repo stars](https://img.shields.io/github/stars/nicepkg/vsync)
 
+## Skills
+- [humanizerai](https://github.com/humanizerai/agent-skills): Detect AI-generated text and humanize it to bypass AI detectors like GPTZero, Turnitin. Works with Cursor via Agent Skills format. Install: `npx skills add humanizerai/agent-skills`. [Website](https://humanizerai.com) ![GitHub Repo stars](https://img.shields.io/github/stars/humanizerai/agent-skills)
+
+
 ## Other
 
 - [Older versions Cursor](https://github.com/oslook/cursor-ai-downloads): Provide links to download older versions of Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/oslook/cursor-ai-downloads)
