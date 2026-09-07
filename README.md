@@ -15,6 +15,7 @@ A list of cursor topics.
 - [cursor-tools](https://github.com/dougwithseismic/cursor-tools): A powerful desktop application for managing and enhancing your Cursor IDE notepads, built with Electron, React, and TypeScript. ![GitHub Repo stars](https://img.shields.io/github/stars/dougwithseismic/cursor-tools)
 - [BurnRate](https://github.com/burnrate-dev/burnrate): AI coding cost analytics CLI that tracks usage and costs across 7 providers (Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, Codex) with a real-time dashboard, 46 optimization rules, and rate limit monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/burnrate-dev/burnrate)
 - [agenttrace](https://github.com/luoyuctl/agenttrace): A local CLI/TUI for Cursor exports and coding-agent session history diagnostics. ![GitHub Repo stars](https://img.shields.io/github/stars/luoyuctl/agenttrace)
+- [Agent Teams AI](https://github.com/777genius/agent-teams-ai): A free, open-source desktop app for autonomous coding-agent teams, with Cursor Agent support, task delegation, inter-agent messaging, a live Kanban board, and code review. ![GitHub Repo stars](https://img.shields.io/github/stars/777genius/agent-teams-ai)
 
 ## Extensions
 
