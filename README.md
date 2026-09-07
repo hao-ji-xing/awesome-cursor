@@ -8,6 +8,7 @@ A curated collection of tools and resources for Cursor (AI Code Editor).
 A list of cursor topics.
 
 ## Projects
+
 - [Cursor tools](https://github.com/eastlondoner/cursor-tools): Give Cursor Agent an AI Team and Advanced Skills  ![GitHub Repo stars](https://img.shields.io/github/stars/eastlondoner/cursor-tools) 
 - [CursorLens](https://github.com/HamedMP/CursorLens): An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version. ![GitHub Repo stars](https://img.shields.io/github/stars/HamedMP/CursorLens)
 - [Chrome Debug Monitor](https://github.com/Maxteabag/cursor-chrome-composer): A powerful integration between Chrome's DevTools Protocol and Cursor Composer for real-time debugging and monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/Maxteabag/cursor-chrome-composer)
@@ -49,7 +50,6 @@ A list of cursor topics.
 - [cursor-rules](https://github.com/survivorforge/cursor-rules): 35+ production-quality .cursorrules files for 16 frameworks (React, Next.js, Python, Go, Rust, SvelteKit, Django, FastAPI, and more). Each rule includes code style, architecture patterns, testing guidance, and best practices. Free, MIT licensed, community contributions welcome. ![GitHub Repo stars](https://img.shields.io/github/stars/survivorforge/cursor-rules)
 - [tugkanboz/awesome-cursorrules](https://github.com/tugkanboz/awesome-cursorrules): Modern Cursor Rules examples in MDC format with nested rules and ready-to-use test automation framework templates (Cypress, Selenium, Playwright, k6). ![GitHub Repo stars](https://img.shields.io/github/stars/tugkanboz/awesome-cursorrules)
 
-
 ## Models
 
 - [llm-router](https://github.com/kcolemangt/llm-router): Access models from OpenAI, Groq, local Ollama, and other providers by setting LLM-router as the base URL in Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/kcolemangt/llm-router)
@@ -62,7 +62,7 @@ A list of cursor topics.
 - [browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp): Monitor browser logs directly from Cursor and other MCP compatible IDEs.  ![GitHub Repo stars](https://img.shields.io/github/stars/AgentDeskAI/browser-tools-mcp)
 - [Cursor MCP](https://github.com/johnneerdael/multiplatform-cursor-mcp): Cursor MCP is a bridge between Claude's desktop application and the Cursor editor, enabling seamless AI-powered automation and multi-instance management. It's part of the broader Model Context Protocol (MCP) ecosystem, allowing Cursor to interact with various AI models and services through standardized interfaces.  ![GitHub Repo stars](https://img.shields.io/github/stars/johnneerdael/multiplatform-cursor-mcp)
 - [context7](https://github.com/upstash/context7): Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors. ![GitHub Repo stars](https://img.shields.io/github/stars/upstash/context7)
-- Dominion Observatory](https://dominion-observatory.sgdata.workers.dev): Behavioral trust scoring and CTEF compliance data for 4,500+ MCP servers. Check any server's trust grade and readiness before adding it to your Cursor workflow.
+- [Dominion Observatory](https://dominion-observatory.sgdata.workers.dev): Behavioral trust scoring and CTEF compliance data for 4,500+ MCP servers. Check any server's trust grade and readiness before adding it to your Cursor workflow.
 - [claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. ![GitHub Repo stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master)
 - [Sverklo](https://github.com/sverklo/sverklo): Local-first code intelligence MCP server with hybrid semantic search, symbol graph, blast-radius analysis, diff-aware PR review, and git-pinned memory. ![GitHub Repo stars](https://img.shields.io/github/stars/sverklo/sverklo)
 - [supamem](https://github.com/dzmitrys-dev/supamem/): MCP memory tool usable from Cursor — Qdrant-backed dual-memory for AI coding agents. Persistent semantic + structural memory across Claude Code, Cursor, and OpenCode. ![GitHub Repo stars](https://img.shields.io/github/stars/dzmitrys-dev/supamem)
@@ -73,16 +73,12 @@ A list of cursor topics.
 - [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
 - [GameDev-MCP-Server](https://github.com/IvanMurzak/GameDev-MCP-Server) - Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.
 - [SnipperApp MCP](https://snipperapp.com/docs/mcp-integration): Bundled MCP server of the SnipperApp 3 snippet manager for macOS; lets Cursor search, read, and save your code snippets.
-
-
-
 - [EGC](https://github.com/Fmarzochi/EGC): Persistent cross-session memory for Cursor and 12 other AI coding tools. SQLite-backed state survives context resets. ![GitHub Repo stars](https://img.shields.io/github/stars/Fmarzochi/EGC)
 - [Falconer](https://github.com/FalconerAI/agent-integrations): Hosted MCP server that gives Cursor's agent trusted access to a company's living documentation — search, read, and update engineering docs, runbooks, decisions, and code context. Setup at https://falconer.com/mcp. ![GitHub Repo stars](https://img.shields.io/github/stars/FalconerAI/agent-integrations)
 - [aide-memory](https://github.com/aide-memory/aide-memory): Persistent, path-scoped memory for AI coding agents (Claude Code, Cursor, Devin). 7 MCP tools plus auto-capture/recall hooks; memories are plain JSON committed in your repo and synced via git. ![GitHub Repo stars](https://img.shields.io/github/stars/aide-memory/aide-memory)
 - [Vestige](https://github.com/samvallad33/vestige): Local-first cognitive memory MCP server for Cursor and other AI coding agents. SQLite storage, FSRS-6 retention, active forgetting, hybrid retrieval, and correction tools. ![GitHub Repo stars](https://img.shields.io/github/stars/samvallad33/vestige)
 - [Shots](https://github.com/hitSlop/shots): App Store screenshot, app icon, and ASO listing copy generation for mobile apps through hosted MCP server. Remote endpoint: `https://shots.run/api/mcp`. ![GitHub Repo stars](https://img.shields.io/github/stars/hitSlop/shots)
 - [MemoryPlugin](https://help.memoryplugin.com/integrations/remote-mcp-server): Long-term memory shared between Cursor and 21+ AI tools (ChatGPT, Claude, Gemini) over MCP. Store, search, and recall memories organized in buckets; hosted remote server with OAuth or local `npx @memoryplugin/mcp-server`.
-
 - [Hexis](https://github.com/Bevel-Software/Hexis): Git-backed platform for skills, tools, and context for AI agents, available to Cursor through a remote OAuth MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/Bevel-Software/Hexis)
 - [ParlayAPI MCP](https://github.com/JacobiusMakes/parlay-api-mcp): Sports odds and source coverage for personal or internal research, with keyless discovery and authenticated access using your own API key. ![GitHub Repo stars](https://img.shields.io/github/stars/JacobiusMakes/parlay-api-mcp)
 
@@ -90,24 +86,18 @@ A list of cursor topics.
 
 - [agentskill.sh](https://agentskill.sh): Browse and install 44k+ skills for Cursor, Claude Code, Codex with security scanning. Use `/learn` command for one-click install.
 - [product-manager-skills](https://github.com/Digidai/product-manager-skills): Senior PM agent with 6 knowledge domains, 12 templates, and 30+ frameworks. Discovery, strategy, delivery, SaaS metrics, career coaching, and AI product craft. Pure Markdown, zero dependencies. ![GitHub Repo stars](https://img.shields.io/github/stars/Digidai/product-manager-skills)
+- [humanizerai](https://github.com/humanizerai/agent-skills): Detect AI-generated text and humanize it to bypass AI detectors like GPTZero, Turnitin. Works with Cursor via Agent Skills format. Install: `npx skills add humanizerai/agent-skills`. [Website](https://humanizerai.com) ![GitHub Repo stars](https://img.shields.io/github/stars/humanizerai/agent-skills)
+- [seo-analysis](https://github.com/nowork-studio/toprank/blob/main/seo/seo-analysis/SKILL.md): SEO audit skill for Cursor, Claude Code, and Codex with Search Console, PageSpeed, keyword research, metadata, and schema checks. ![GitHub Repo stars](https://img.shields.io/github/stars/nowork-studio/toprank)
+- [TokRepo Search Skill](https://github.com/henu-wang/tokrepo-search-skill): Cross-platform TokRepo skill for finding and installing AI assets including Cursor rules, MCP configs, prompts, and workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/henu-wang/tokrepo-search-skill)
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
 
 ## Config Sync
 
 - [vsync](https://github.com/nicepkg/vsync): Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex. One command syncs everything with automatic format conversion. ![GitHub Repo stars](https://img.shields.io/github/stars/nicepkg/vsync)
-
-## Skills
-- [humanizerai](https://github.com/humanizerai/agent-skills): Detect AI-generated text and humanize it to bypass AI detectors like GPTZero, Turnitin. Works with Cursor via Agent Skills format. Install: `npx skills add humanizerai/agent-skills`. [Website](https://humanizerai.com) ![GitHub Repo stars](https://img.shields.io/github/stars/humanizerai/agent-skills)
-
-- [seo-analysis](https://github.com/nowork-studio/toprank/blob/main/seo/seo-analysis/SKILL.md): SEO audit skill for Cursor, Claude Code, and Codex with Search Console, PageSpeed, keyword research, metadata, and schema checks. ![GitHub Repo stars](https://img.shields.io/github/stars/nowork-studio/toprank)
-- [TokRepo Search Skill](https://github.com/henu-wang/tokrepo-search-skill): Cross-platform TokRepo skill for finding and installing AI assets including Cursor rules, MCP configs, prompts, and workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/henu-wang/tokrepo-search-skill)
 
 ## Other
 
 - [Older versions Cursor](https://github.com/oslook/cursor-ai-downloads): Provide links to download older versions of Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/oslook/cursor-ai-downloads)
 - [curxy](https://github.com/ryoppippi/curxy): Simple proxy worker for using ollama in cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/ryoppippi/curxy)
 - [CursorFocus](https://github.com/Dror-Bengal/CursorFocus): A lightweight tool that maintains a focused view of your project structure and environment. CursorFocus automatically tracks your project files, functions, and environment variables, updating every 60 seconds to keep you informed of changes. ![GitHub Repo stars](https://img.shields.io/github/stars/Dror-Bengal/CursorFocus)
-## XVARY Stock Research
-
-- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
-
 - [Caliber](https://github.com/caliber-ai-org/ai-setup): CLI that generates and syncs .cursor/rules/, skills, and MCP configs from project fingerprints. Also supports Claude Code and Codex. ![GitHub Repo stars](https://img.shields.io/github/stars/caliber-ai-org/ai-setup)
