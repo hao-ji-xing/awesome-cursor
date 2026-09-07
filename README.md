@@ -65,6 +65,10 @@ A list of cursor topics.
 - [supamem](https://github.com/dzmitrys-dev/supamem/): MCP memory tool usable from Cursor — Qdrant-backed dual-memory for AI coding agents. Persistent semantic + structural memory across Claude Code, Cursor, and OpenCode. ![GitHub Repo stars](https://img.shields.io/github/stars/dzmitrys-dev/supamem)
 - [promptlint-mcp](https://github.com/sean-sunagaku/promptlint-mcp): Static linter for AI prompts. Catches contradictions, redundancy, ambiguity, long examples, and politeness fluff. CLI + MCP server. Zero network, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/sean-sunagaku/promptlint-mcp)
 - [TypeUI](https://www.typeui.sh/docs/guides/cursor): Build better UI with Cursor ![GitHub Repo Stars](https://img.shields.io/github/stars/bergside/typeui)
+- [Unity-MCP](https://github.com/IvanMurzak/Unity-MCP) - Open-source MCP server connecting AI agents (including Cursor) to the Unity Editor and runtime, with 100+ built-in tools.
+- [Godot-MCP](https://github.com/IvanMurzak/Godot-MCP) - Open-source MCP server connecting AI agents to the Godot Editor and runtime (Godot 4.x, C#).
+- [Unreal-MCP](https://github.com/IvanMurzak/Unreal-MCP) - Open-source MCP server connecting AI agents to Unreal Engine 5.7, editor and runtime (C++ plugin + .NET sidecar).
+- [GameDev-MCP-Server](https://github.com/IvanMurzak/GameDev-MCP-Server) - Open-source, engine-agnostic MCP server shared by Unity-MCP, Godot-MCP, and Unreal-MCP.
 
 
 
