@@ -79,6 +79,7 @@ A list of cursor topics.
 - [aide-memory](https://github.com/aide-memory/aide-memory): Persistent, path-scoped memory for AI coding agents (Claude Code, Cursor, Devin). 7 MCP tools plus auto-capture/recall hooks; memories are plain JSON committed in your repo and synced via git. ![GitHub Repo stars](https://img.shields.io/github/stars/aide-memory/aide-memory)
 - [Vestige](https://github.com/samvallad33/vestige): Local-first cognitive memory MCP server for Cursor and other AI coding agents. SQLite storage, FSRS-6 retention, active forgetting, hybrid retrieval, and correction tools. ![GitHub Repo stars](https://img.shields.io/github/stars/samvallad33/vestige)
 - [Shots](https://github.com/hitSlop/shots): App Store screenshot, app icon, and ASO listing copy generation for mobile apps through hosted MCP server. Remote endpoint: `https://shots.run/api/mcp`. ![GitHub Repo stars](https://img.shields.io/github/stars/hitSlop/shots)
+- [MemoryPlugin](https://help.memoryplugin.com/integrations/remote-mcp-server): Long-term memory shared between Cursor and 21+ AI tools (ChatGPT, Claude, Gemini) over MCP. Store, search, and recall memories organized in buckets; hosted remote server with OAuth or local `npx @memoryplugin/mcp-server`.
 
 - [Hexis](https://github.com/Bevel-Software/Hexis): Git-backed platform for skills, tools, and context for AI agents, available to Cursor through a remote OAuth MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/Bevel-Software/Hexis)
 
