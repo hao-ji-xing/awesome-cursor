@@ -13,6 +13,7 @@ A list of cursor topics.
 - [Chrome Debug Monitor](https://github.com/Maxteabag/cursor-chrome-composer): A powerful integration between Chrome's DevTools Protocol and Cursor Composer for real-time debugging and monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/Maxteabag/cursor-chrome-composer)
 - [Coco](https://github.com/rkz91/coco): 389-expert advisory board (9 teams) with optional `--debate` deliberation, 146 skills, 277 commands, and multi-agent orchestration for Cursor (also Claude Code and Codex). MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/rkz91/coco)
 - [cursor-tools](https://github.com/dougwithseismic/cursor-tools): A powerful desktop application for managing and enhancing your Cursor IDE notepads, built with Electron, React, and TypeScript. ![GitHub Repo stars](https://img.shields.io/github/stars/dougwithseismic/cursor-tools)
+- [BurnRate](https://github.com/burnrate-dev/burnrate): AI coding cost analytics CLI that tracks usage and costs across 7 providers (Claude Code, Cursor, Copilot, Windsurf, Aider, Cline, Codex) with a real-time dashboard, 46 optimization rules, and rate limit monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/burnrate-dev/burnrate)
 
 ## Extensions
 
