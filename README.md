@@ -62,6 +62,7 @@ A list of cursor topics.
 - [claude-task-master](https://github.com/eyaltoledano/claude-task-master): An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. ![GitHub Repo stars](https://img.shields.io/github/stars/eyaltoledano/claude-task-master)
 - [Sverklo](https://github.com/sverklo/sverklo): Local-first code intelligence MCP server with hybrid semantic search, symbol graph, blast-radius analysis, diff-aware PR review, and git-pinned memory. ![GitHub Repo stars](https://img.shields.io/github/stars/sverklo/sverklo)
 - [supamem](https://github.com/dzmitrys-dev/supamem/): MCP memory tool usable from Cursor — Qdrant-backed dual-memory for AI coding agents. Persistent semantic + structural memory across Claude Code, Cursor, and OpenCode. ![GitHub Repo stars](https://img.shields.io/github/stars/dzmitrys-dev/supamem)
+- [promptlint-mcp](https://github.com/sean-sunagaku/promptlint-mcp): Static linter for AI prompts. Catches contradictions, redundancy, ambiguity, long examples, and politeness fluff. CLI + MCP server. Zero network, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/sean-sunagaku/promptlint-mcp)
 
 
 
