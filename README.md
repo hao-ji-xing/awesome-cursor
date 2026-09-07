@@ -64,6 +64,7 @@ A list of cursor topics.
 - [Sverklo](https://github.com/sverklo/sverklo): Local-first code intelligence MCP server with hybrid semantic search, symbol graph, blast-radius analysis, diff-aware PR review, and git-pinned memory. ![GitHub Repo stars](https://img.shields.io/github/stars/sverklo/sverklo)
 - [supamem](https://github.com/dzmitrys-dev/supamem/): MCP memory tool usable from Cursor — Qdrant-backed dual-memory for AI coding agents. Persistent semantic + structural memory across Claude Code, Cursor, and OpenCode. ![GitHub Repo stars](https://img.shields.io/github/stars/dzmitrys-dev/supamem)
 - [promptlint-mcp](https://github.com/sean-sunagaku/promptlint-mcp): Static linter for AI prompts. Catches contradictions, redundancy, ambiguity, long examples, and politeness fluff. CLI + MCP server. Zero network, MIT. ![GitHub Repo stars](https://img.shields.io/github/stars/sean-sunagaku/promptlint-mcp)
+- [TypeUI](https://www.typeui.sh/docs/guides/cursor): Build better UI with Cursor ![GitHub Repo Stars](https://img.shields.io/github/stars/bergside/typeui)
 
 
 
