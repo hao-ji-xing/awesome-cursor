@@ -90,3 +90,4 @@ A list of cursor topics.
 
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
 
+- [Caliber](https://github.com/caliber-ai-org/ai-setup): CLI that generates and syncs .cursor/rules/, skills, and MCP configs from project fingerprints. Also supports Claude Code and Codex. ![GitHub Repo stars](https://img.shields.io/github/stars/caliber-ai-org/ai-setup)
