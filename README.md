@@ -35,6 +35,7 @@ A list of cursor topics.
 - [tailwind-best-practices](https://github.com/ofershap/tailwind-best-practices): Stop agents from generating Tailwind v3 code. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/tailwind-best-practices)
 - [typescript-best-practices](https://github.com/ofershap/typescript-best-practices): Modern TypeScript patterns for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/typescript-best-practices)
 - [NEDIO](https://marketplace.visualstudio.com/items?itemName=nedio.pomodoro-focus-music) : Pomodoro timer, focus music, and sprint reviews that run inside Cursor and VS Code.
+- [Mnemoverse](https://github.com/mnemoverse/cursor-plugin): Cursor plugin that connects persistent Mnemoverse memory over MCP with a one-time OAuth sign-in, and ships the agent-memory-discipline rule and skill alongside it. ![GitHub Repo stars](https://img.shields.io/github/stars/mnemoverse/cursor-plugin)
 
 ## Rules
 
@@ -81,6 +82,7 @@ A list of cursor topics.
 - [MemoryPlugin](https://help.memoryplugin.com/integrations/remote-mcp-server): Long-term memory shared between Cursor and 21+ AI tools (ChatGPT, Claude, Gemini) over MCP. Store, search, and recall memories organized in buckets; hosted remote server with OAuth or local `npx @memoryplugin/mcp-server`.
 - [Hexis](https://github.com/Bevel-Software/Hexis): Git-backed platform for skills, tools, and context for AI agents, available to Cursor through a remote OAuth MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/Bevel-Software/Hexis)
 - [ParlayAPI MCP](https://github.com/JacobiusMakes/parlay-api-mcp): Sports odds and source coverage for personal or internal research, with keyless discovery and authenticated access using your own API key. ![GitHub Repo stars](https://img.shields.io/github/stars/JacobiusMakes/parlay-api-mcp)
+- [Mnemoverse](https://github.com/mnemoverse/mcp-memory-server): Persistent memory shared between Cursor and other AI tools over MCP. Hosted remote server with OAuth at `https://mcp.mnemoverse.com/mcp`, or local `npx -y @mnemoverse/mcp-memory-server` with a key. Recall is re-ranked by feedback on whether a memory helped, and unused memories decay by recency. ![GitHub Repo stars](https://img.shields.io/github/stars/mnemoverse/mcp-memory-server)
 
 ## Skills
 
@@ -90,6 +92,7 @@ A list of cursor topics.
 - [seo-analysis](https://github.com/nowork-studio/toprank/blob/main/seo/seo-analysis/SKILL.md): SEO audit skill for Cursor, Claude Code, and Codex with Search Console, PageSpeed, keyword research, metadata, and schema checks. ![GitHub Repo stars](https://img.shields.io/github/stars/nowork-studio/toprank)
 - [TokRepo Search Skill](https://github.com/henu-wang/tokrepo-search-skill): Cross-platform TokRepo skill for finding and installing AI assets including Cursor rules, MCP configs, prompts, and workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/henu-wang/tokrepo-search-skill)
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+- [agent-memory-discipline](https://github.com/mnemoverse/agent-memory-discipline): When an agent should recall from long-term memory before acting and when it should save afterwards. Backend-neutral and CC0: works against a folder of Markdown files as well as against a server. ![GitHub Repo stars](https://img.shields.io/github/stars/mnemoverse/agent-memory-discipline)
 
 ## Config Sync
 
