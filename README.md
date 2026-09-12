@@ -58,6 +58,7 @@ A list of cursor topics.
 ## MCPs
 
 - [smithery.ai](https://smithery.ai/): Smithery is a platform to help developers find and ship language model extensions compatible with the Model Context Protocol Specification.
+- [zambo](https://github.com/zambodotdev/zambo-mcp): Give your AI hands. One URL. Type a job. Get a receipt. 120 native MCP tools across 17 products behind one zero-auth remote endpoint — free 20 calls/tool/day, no account, one-click install for Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/zambodotdev/zambo-mcp)
 - [cursor-mcp-installer](https://github.com/matthewdcage/cursor-mcp-installer): Installs MCPs in cursor for you, give it a git URL and let it rip.  ![GitHub Repo stars](https://img.shields.io/github/stars/matthewdcage/cursor-mcp-installer)
 - [browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp): Monitor browser logs directly from Cursor and other MCP compatible IDEs.  ![GitHub Repo stars](https://img.shields.io/github/stars/AgentDeskAI/browser-tools-mcp)
 - [Cursor MCP](https://github.com/johnneerdael/multiplatform-cursor-mcp): Cursor MCP is a bridge between Claude's desktop application and the Cursor editor, enabling seamless AI-powered automation and multi-instance management. It's part of the broader Model Context Protocol (MCP) ecosystem, allowing Cursor to interact with various AI models and services through standardized interfaces.  ![GitHub Repo stars](https://img.shields.io/github/stars/johnneerdael/multiplatform-cursor-mcp)
