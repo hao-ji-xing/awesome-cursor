@@ -26,6 +26,7 @@ A list of cursor topics.
 - [Cursor Stats](https://github.com/Dwtexe/cursor-stats): A Cursor extension that displays your Cursor Subscription usage statistics in the status bar. ![GitHub Repo stars](https://img.shields.io/github/stars/Dwtexe/cursor-stats)
 - [stagewise](https://github.com/stagewise-io/stagewise): stagewise is a browser toolbar that connects your frontend UI to your code ai agents in your code editor. ![GitHub Repo stars](https://img.shields.io/github/stars/stagewise-io/stagewise)
 - [Cursor MCP](https://github.com/2029193370/cursor-mcp): Multi-channel MCP sidebar for Cursor with concurrent workspaces, per-window binding, image/file attachments and session memos. ![GitHub Repo stars](https://img.shields.io/github/stars/2029193370/cursor-mcp)
+- [Small Print](https://github.com/gostanos/smallprint-action/tree/main/vscode): VS Code and Cursor extension that watches the instruction files and skills on the machine and, once allowed, checks its MCP servers against a public record of their tool descriptions by package name. ![GitHub Repo stars](https://img.shields.io/github/stars/gostanos/smallprint-action)
 
 ## Plugins
 
