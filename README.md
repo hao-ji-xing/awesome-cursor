@@ -9,6 +9,8 @@ A list of cursor topics.
 
 ## Projects
 
+- [DeckBridge for Cursor with Grok Bot](https://marketplace.elgato.com/product/deckbridge-for-cursor-with-grok-bot-de7b86f1-4f5b-48b9-be28-e012e187c173): Paid macOS Stream Deck plugin displaying Cursor Spending dashboard readings for Cursor Models, Other Models, Grok Bot and On-Demand Spend. Requires compatible Stream Deck hardware, Elgato Stream Deck software and Google Chrome; the dedicated Chrome window must remain open and may be minimised.
+
 - [Cursor tools](https://github.com/eastlondoner/cursor-tools): Give Cursor Agent an AI Team and Advanced Skills  ![GitHub Repo stars](https://img.shields.io/github/stars/eastlondoner/cursor-tools) 
 - [CursorLens](https://github.com/HamedMP/CursorLens): An open-source dashboard for Cursor.sh IDE. Log AI code generations, track usage, and control AI models (including local ones). Run locally or use upcoming hosted version. ![GitHub Repo stars](https://img.shields.io/github/stars/HamedMP/CursorLens)
 - [Chrome Debug Monitor](https://github.com/Maxteabag/cursor-chrome-composer): A powerful integration between Chrome's DevTools Protocol and Cursor Composer for real-time debugging and monitoring. ![GitHub Repo stars](https://img.shields.io/github/stars/Maxteabag/cursor-chrome-composer)
