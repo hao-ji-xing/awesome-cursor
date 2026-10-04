@@ -26,6 +26,7 @@ A list of cursor topics.
 - [Cursor Stats](https://github.com/Dwtexe/cursor-stats): A Cursor extension that displays your Cursor Subscription usage statistics in the status bar. ![GitHub Repo stars](https://img.shields.io/github/stars/Dwtexe/cursor-stats)
 - [stagewise](https://github.com/stagewise-io/stagewise): stagewise is a browser toolbar that connects your frontend UI to your code ai agents in your code editor. ![GitHub Repo stars](https://img.shields.io/github/stars/stagewise-io/stagewise)
 - [Cursor MCP](https://github.com/2029193370/cursor-mcp): Multi-channel MCP sidebar for Cursor with concurrent workspaces, per-window binding, image/file attachments and session memos. ![GitHub Repo stars](https://img.shields.io/github/stars/2029193370/cursor-mcp)
+- [Easy SSH](https://github.com/dhlptx00/EasySSH): An SSH client in a Cursor (or VS Code) terminal tab with saved connections, jump hosts, a Ctrl+click menu to download, open, rename or delete remote files and folders, and drag-and-drop upload. Installs nothing on the server. ![GitHub Repo stars](https://img.shields.io/github/stars/dhlptx00/EasySSH)
 
 ## Plugins
 
