@@ -38,6 +38,7 @@ A list of cursor topics.
 
 ## Rules
 
+- [RepoGuard](https://github.com/taylormatematica-beep/repoguard): Architecture guardian for Cursor & AI codebases. Generates strict `.cursorrules` and audits Clean Architecture in ~12ms. ![GitHub Repo stars](https://img.shields.io/github/stars/taylormatematica-beep/repoguard)
 - [devin.cursorrules](https://github.com/grapeot/devin.cursorrules): Magic to turn Cursor/Windsurf as 90% of Devin. ![GitHub Repo stars](https://img.shields.io/github/stars/grapeot/devin.cursorrules)
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules): 📄 A curated list of awesome .cursorrules files. ![GitHub Repo stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules)
 - [cursor.directory](https://github.com/pontusab/cursor.directory): Find the best cursor rules for your framework and language. ![GitHub Repo stars](https://img.shields.io/github/stars/pontusab/cursor.directory)
