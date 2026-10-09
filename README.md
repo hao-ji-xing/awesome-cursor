@@ -82,6 +82,8 @@ A list of cursor topics.
 - [Hexis](https://github.com/Bevel-Software/Hexis): Git-backed platform for skills, tools, and context for AI agents, available to Cursor through a remote OAuth MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/Bevel-Software/Hexis)
 - [ParlayAPI MCP](https://github.com/JacobiusMakes/parlay-api-mcp): Sports odds and source coverage for personal or internal research, with keyless discovery and authenticated access using your own API key. ![GitHub Repo stars](https://img.shields.io/github/stars/JacobiusMakes/parlay-api-mcp)
 
+- [VibeDoctor](https://github.com/neural-axis/VibeDoctor): Local MCP server and CLI for repository health scans, finding explanations and ranked repair plans, usable from Cursor. JavaScript, TypeScript, Python and mixed projects. ![GitHub Repo stars](https://img.shields.io/github/stars/neural-axis/VibeDoctor)
+
 ## Skills
 
 - [agentskill.sh](https://agentskill.sh): Browse and install 44k+ skills for Cursor, Claude Code, Codex with security scanning. Use `/learn` command for one-click install.
