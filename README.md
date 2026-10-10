@@ -94,6 +94,7 @@ A list of cursor topics.
 ## Config Sync
 
 - [vsync](https://github.com/nicepkg/vsync): Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex. One command syncs everything with automatic format conversion. ![GitHub Repo stars](https://img.shields.io/github/stars/nicepkg/vsync)
+- [LynxPrompt](https://github.com/GeiserX/LynxPrompt): Self-hosted web app that turns one set of AI coding rules into the file each tool reads: `.cursor/rules/`, `AGENTS.md`, `CLAUDE.md` and Copilot instructions, 30 rule-file formats in all. The `lynxp` CLI and the VS Code extension put the files into every repository. ![GitHub Repo stars](https://img.shields.io/github/stars/GeiserX/LynxPrompt)
 
 ## Other
 
