@@ -35,6 +35,7 @@ A list of cursor topics.
 - [tailwind-best-practices](https://github.com/ofershap/tailwind-best-practices): Stop agents from generating Tailwind v3 code. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/tailwind-best-practices)
 - [typescript-best-practices](https://github.com/ofershap/typescript-best-practices): Modern TypeScript patterns for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/typescript-best-practices)
 - [NEDIO](https://marketplace.visualstudio.com/items?itemName=nedio.pomodoro-focus-music) : Pomodoro timer, focus music, and sprint reviews that run inside Cursor and VS Code.
+- [Archcore](https://github.com/archcore-ai/archcore): Spec-driven development and context engineering for Claude Code, Cursor, Codex, and GitHub Copilot — backed by project context in Git. ![GitHub Repo stars](https://img.shields.io/github/stars/archcore-ai/archcore)
 
 ## Rules
 
