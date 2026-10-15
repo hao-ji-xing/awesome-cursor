@@ -90,6 +90,7 @@ A list of cursor topics.
 - [seo-analysis](https://github.com/nowork-studio/toprank/blob/main/seo/seo-analysis/SKILL.md): SEO audit skill for Cursor, Claude Code, and Codex with Search Console, PageSpeed, keyword research, metadata, and schema checks. ![GitHub Repo stars](https://img.shields.io/github/stars/nowork-studio/toprank)
 - [TokRepo Search Skill](https://github.com/henu-wang/tokrepo-search-skill): Cross-platform TokRepo skill for finding and installing AI assets including Cursor rules, MCP configs, prompts, and workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/henu-wang/tokrepo-search-skill)
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+- [session-handoff-kit](https://github.com/alapha888/session-handoff-kit): End Cursor (also Claude Code and Codex) sessions with a structured handoff note — goal state, decisions and why, open loops, next action — plus a context hygiene checklist, so the next session resumes from facts. Install: `npx skills add alapha888/session-handoff-kit`. ![GitHub Repo stars](https://img.shields.io/github/stars/alapha888/session-handoff-kit)
 
 ## Config Sync
 
