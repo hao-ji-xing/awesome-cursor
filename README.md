@@ -18,6 +18,7 @@ A list of cursor topics.
 - [agenttrace](https://github.com/luoyuctl/agenttrace): A local CLI/TUI for Cursor exports and coding-agent session history diagnostics. ![GitHub Repo stars](https://img.shields.io/github/stars/luoyuctl/agenttrace)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai): A free, open-source desktop app for autonomous coding-agent teams, with Cursor Agent support, task delegation, inter-agent messaging, a live Kanban board, and code review. ![GitHub Repo stars](https://img.shields.io/github/stars/777genius/agent-teams-ai)
 - [cursor-agent-service](https://github.com/AxLabs/cursor-agent-service): Run the Cursor CLI agent worker as a native OS service on Linux (systemd) or macOS (launchd) so you can deploy and run your own self-hosted agents. ![GitHub Repo stars](https://img.shields.io/github/stars/AxLabs/cursor-agent-service)
+- [ChatVault](https://github.com/ssanaullahrais/Chat-Vault): Windows app that reads, searches and backs up your Cursor chats across accounts, and continues any chat in another AI coding tool. ![GitHub Repo stars](https://img.shields.io/github/stars/ssanaullahrais/Chat-Vault)
 
 ## Extensions
 
