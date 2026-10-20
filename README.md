@@ -38,6 +38,7 @@ A list of cursor topics.
 
 ## Rules
 
+- [Cursor Rules Generator](https://cursor.pacebowl.com/): Free modular .cursorrules & .mdc production rules generator with 1-click terminal installation for modern frameworks (Next.js 15, React 19, FastAPI, Tailwind v4).
 - [devin.cursorrules](https://github.com/grapeot/devin.cursorrules): Magic to turn Cursor/Windsurf as 90% of Devin. ![GitHub Repo stars](https://img.shields.io/github/stars/grapeot/devin.cursorrules)
 - [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules): 📄 A curated list of awesome .cursorrules files. ![GitHub Repo stars](https://img.shields.io/github/stars/PatrickJS/awesome-cursorrules)
 - [cursor.directory](https://github.com/pontusab/cursor.directory): Find the best cursor rules for your framework and language. ![GitHub Repo stars](https://img.shields.io/github/stars/pontusab/cursor.directory)
