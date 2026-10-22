@@ -50,6 +50,8 @@ A list of cursor topics.
 - [cursor-rules](https://github.com/survivorforge/cursor-rules): 35+ production-quality .cursorrules files for 16 frameworks (React, Next.js, Python, Go, Rust, SvelteKit, Django, FastAPI, and more). Each rule includes code style, architecture patterns, testing guidance, and best practices. Free, MIT licensed, community contributions welcome. ![GitHub Repo stars](https://img.shields.io/github/stars/survivorforge/cursor-rules)
 - [tugkanboz/awesome-cursorrules](https://github.com/tugkanboz/awesome-cursorrules): Modern Cursor Rules examples in MDC format with nested rules and ready-to-use test automation framework templates (Cypress, Selenium, Playwright, k6). ![GitHub Repo stars](https://img.shields.io/github/stars/tugkanboz/awesome-cursorrules)
 
+- [Loadout](https://github.com/Anthony-Pan/loadout): Free + Pro AI coding rule packs (Cursor, Claude Code, Codex, Windsurf) — AGENTS.md, .cursorrules, CLAUDE.md. [Website](https://loadout-blush.vercel.app). Made by Anthony Pan. ![GitHub Repo stars](https://img.shields.io/github/stars/Anthony-Pan/loadout)
+
 ## Models
 
 - [llm-router](https://github.com/kcolemangt/llm-router): Access models from OpenAI, Groq, local Ollama, and other providers by setting LLM-router as the base URL in Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/kcolemangt/llm-router)
