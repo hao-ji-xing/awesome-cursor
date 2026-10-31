@@ -35,6 +35,7 @@ A list of cursor topics.
 - [tailwind-best-practices](https://github.com/ofershap/tailwind-best-practices): Stop agents from generating Tailwind v3 code. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/tailwind-best-practices)
 - [typescript-best-practices](https://github.com/ofershap/typescript-best-practices): Modern TypeScript patterns for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/typescript-best-practices)
 - [NEDIO](https://marketplace.visualstudio.com/items?itemName=nedio.pomodoro-focus-music) : Pomodoro timer, focus music, and sprint reviews that run inside Cursor and VS Code.
+- [signbee/cursor-plugin](https://github.com/signbee/cursor-plugin): Cursor plugin bundling the Signbee MCP server and Agent Skill for sending Markdown or PDF documents for two-party e-signing with SHA-256 certificates. ![GitHub Repo stars](https://img.shields.io/github/stars/signbee/cursor-plugin)
 
 ## Rules
 
@@ -81,6 +82,7 @@ A list of cursor topics.
 - [MemoryPlugin](https://help.memoryplugin.com/integrations/remote-mcp-server): Long-term memory shared between Cursor and 21+ AI tools (ChatGPT, Claude, Gemini) over MCP. Store, search, and recall memories organized in buckets; hosted remote server with OAuth or local `npx @memoryplugin/mcp-server`.
 - [Hexis](https://github.com/Bevel-Software/Hexis): Git-backed platform for skills, tools, and context for AI agents, available to Cursor through a remote OAuth MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/Bevel-Software/Hexis)
 - [ParlayAPI MCP](https://github.com/JacobiusMakes/parlay-api-mcp): Sports odds and source coverage for personal or internal research, with keyless discovery and authenticated access using your own API key. ![GitHub Repo stars](https://img.shields.io/github/stars/JacobiusMakes/parlay-api-mcp)
+- [signbee-mcp](https://github.com/signbee/mcp): MCP server for [Signbee](https://signb.ee) — send Markdown or PDF documents for two-party e-signing with SHA-256 certified delivery, OTP verification, and webhooks in one tool call. ![GitHub Repo stars](https://img.shields.io/github/stars/signbee/mcp)
 
 ## Skills
 
@@ -90,6 +92,7 @@ A list of cursor topics.
 - [seo-analysis](https://github.com/nowork-studio/toprank/blob/main/seo/seo-analysis/SKILL.md): SEO audit skill for Cursor, Claude Code, and Codex with Search Console, PageSpeed, keyword research, metadata, and schema checks. ![GitHub Repo stars](https://img.shields.io/github/stars/nowork-studio/toprank)
 - [TokRepo Search Skill](https://github.com/henu-wang/tokrepo-search-skill): Cross-platform TokRepo skill for finding and installing AI assets including Cursor rules, MCP configs, prompts, and workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/henu-wang/tokrepo-search-skill)
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+- [signbee/skill](https://github.com/signbee/skill): Agent skill for Cursor, Claude Code, and Codex to draft and send NDAs, contracts, and agreements for two-party e-signing via Signbee. Install: `npx skills add signbee/skill --skill signbee -g`. ![GitHub Repo stars](https://img.shields.io/github/stars/signbee/skill)
 
 ## Config Sync
 
