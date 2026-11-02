@@ -49,6 +49,7 @@ A list of cursor topics.
 - [cursor-custom-agents-rules-generator](https://github.com/bmadcode/cursor-custom-agents-rules-generator): Maximize the potential of Cursor best practices for Automatic Rule and Custom Agent Generation and Agile Workflows  ![GitHub Repo stars](https://img.shields.io/github/stars/bmadcode/cursor-custom-agents-rules-generator)
 - [cursor-rules](https://github.com/survivorforge/cursor-rules): 35+ production-quality .cursorrules files for 16 frameworks (React, Next.js, Python, Go, Rust, SvelteKit, Django, FastAPI, and more). Each rule includes code style, architecture patterns, testing guidance, and best practices. Free, MIT licensed, community contributions welcome. ![GitHub Repo stars](https://img.shields.io/github/stars/survivorforge/cursor-rules)
 - [tugkanboz/awesome-cursorrules](https://github.com/tugkanboz/awesome-cursorrules): Modern Cursor Rules examples in MDC format with nested rules and ready-to-use test automation framework templates (Cypress, Selenium, Playwright, k6). ![GitHub Repo stars](https://img.shields.io/github/stars/tugkanboz/awesome-cursorrules)
+- [Clogmeter](https://clogmeter.vercel.app): Free browser tool that weighs Cursor rules (plus AGENTS.md / CLAUDE.md / skills) in tokens, finds duplicates and conflicts, and exports a trimmed copy.
 
 ## Models
 
