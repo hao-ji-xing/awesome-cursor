@@ -90,6 +90,7 @@ A list of cursor topics.
 - [seo-analysis](https://github.com/nowork-studio/toprank/blob/main/seo/seo-analysis/SKILL.md): SEO audit skill for Cursor, Claude Code, and Codex with Search Console, PageSpeed, keyword research, metadata, and schema checks. ![GitHub Repo stars](https://img.shields.io/github/stars/nowork-studio/toprank)
 - [TokRepo Search Skill](https://github.com/henu-wang/tokrepo-search-skill): Cross-platform TokRepo skill for finding and installing AI assets including Cursor rules, MCP configs, prompts, and workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/henu-wang/tokrepo-search-skill)
 - [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
+- [Ponder](https://github.com/Quinnod345/ponder): Convergent multi-pass code review skill and CLI for Cursor, Claude Code, and Codex with a 4-perspective audit loop (`skeptic`, `builder`, `dreamer`, `empath`), `.cursor-plugin/plugin.json`, and an append-only ledger coverage gate. Install: `npx skills add quinnod345/ponder`. ![GitHub Repo stars](https://img.shields.io/github/stars/Quinnod345/ponder)
 
 ## Config Sync
 
