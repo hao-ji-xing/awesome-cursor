@@ -54,6 +54,7 @@ A list of cursor topics.
 
 - [llm-router](https://github.com/kcolemangt/llm-router): Access models from OpenAI, Groq, local Ollama, and other providers by setting LLM-router as the base URL in Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/kcolemangt/llm-router)
 - [Lynkr](https://github.com/Fast-Editor/Lynkr): Self-hosted LLM gateway (Apache 2.0, Node.js) — drop-in proxy for Cursor with tier-based routing across 12+ providers (Ollama, llama.cpp, LM Studio, MLX, Bedrock, OpenRouter, Azure, Vertex, DeepSeek, Moonshot). MCP Code Mode collapses 100+ tools into 4 meta-tools.
+- [UberLLM](https://uberllm.dev/docs/cursor): Hosted OpenAI-compatible API (paid, prepaid from $5) for GPT, Claude, Gemini, DeepSeek, GLM, Qwen and other models. Set `https://api.uberllm.dev/v1` as the OpenAI base URL override in Cursor and add a model id as a custom model; chat only, Tab completion stays on Cursor's models.
 
 ## MCPs
 
