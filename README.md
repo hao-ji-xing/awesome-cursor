@@ -18,6 +18,7 @@ A list of cursor topics.
 - [agenttrace](https://github.com/luoyuctl/agenttrace): A local CLI/TUI for Cursor exports and coding-agent session history diagnostics. ![GitHub Repo stars](https://img.shields.io/github/stars/luoyuctl/agenttrace)
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai): A free, open-source desktop app for autonomous coding-agent teams, with Cursor Agent support, task delegation, inter-agent messaging, a live Kanban board, and code review. ![GitHub Repo stars](https://img.shields.io/github/stars/777genius/agent-teams-ai)
 - [cursor-agent-service](https://github.com/AxLabs/cursor-agent-service): Run the Cursor CLI agent worker as a native OS service on Linux (systemd) or macOS (launchd) so you can deploy and run your own self-hosted agents. ![GitHub Repo stars](https://img.shields.io/github/stars/AxLabs/cursor-agent-service)
+- [Sesori](https://github.com/sesori-ai/sesori_apps_monorepo): Notifies you the moment a Cursor CLI agent stops on a question or permission prompt, so you can reply from your phone instead of leaving it idle. A free desktop (macOS, Linux) and iOS/Android app for the sessions on your own computer; code stays there and the relay sees only end-to-end encrypted traffic. Also supports Claude Code, Codex, OpenCode, GitHub Copilot, Pi, OMP, Hermes, DeepSeek and Grok Build. Source-available (FSL-1.1-ALv2). ![GitHub Repo stars](https://img.shields.io/github/stars/sesori-ai/sesori_apps_monorepo)
 
 ## Extensions
 
