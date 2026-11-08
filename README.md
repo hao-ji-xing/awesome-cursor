@@ -94,6 +94,7 @@ A list of cursor topics.
 ## Config Sync
 
 - [vsync](https://github.com/nicepkg/vsync): Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex. One command syncs everything with automatic format conversion. ![GitHub Repo stars](https://img.shields.io/github/stars/nicepkg/vsync)
+- [Kitden](https://github.com/KonstantinStarovoytov/kitden): Local page that shows what Cursor, Claude Code and Codex load (MCP servers, plugins, skills), flags duplicates, adds a missing item to another client, and shares one MCP server setup across the three through a local gateway. Every change is previewed, backed up and can be undone. ![GitHub Repo stars](https://img.shields.io/github/stars/KonstantinStarovoytov/kitden)
 
 ## Other
 
