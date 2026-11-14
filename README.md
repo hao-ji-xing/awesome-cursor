@@ -35,6 +35,7 @@ A list of cursor topics.
 - [tailwind-best-practices](https://github.com/ofershap/tailwind-best-practices): Stop agents from generating Tailwind v3 code. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/tailwind-best-practices)
 - [typescript-best-practices](https://github.com/ofershap/typescript-best-practices): Modern TypeScript patterns for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/typescript-best-practices)
 - [NEDIO](https://marketplace.visualstudio.com/items?itemName=nedio.pomodoro-focus-music) : Pomodoro timer, focus music, and sprint reviews that run inside Cursor and VS Code.
+- [YouTube Transcript](https://github.com/tubeagentkit/youtube-transcript-cursor-plugin): Get YouTube video transcripts, search YouTube and browse channels and playlists inside Cursor. Bundles a remote MCP server (OAuth or API key), skills and commands. ![GitHub Repo stars](https://img.shields.io/github/stars/tubeagentkit/youtube-transcript-cursor-plugin)
 
 ## Rules
 
