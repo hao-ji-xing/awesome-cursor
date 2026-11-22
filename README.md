@@ -26,6 +26,7 @@ A list of cursor topics.
 - [Cursor Stats](https://github.com/Dwtexe/cursor-stats): A Cursor extension that displays your Cursor Subscription usage statistics in the status bar. ![GitHub Repo stars](https://img.shields.io/github/stars/Dwtexe/cursor-stats)
 - [stagewise](https://github.com/stagewise-io/stagewise): stagewise is a browser toolbar that connects your frontend UI to your code ai agents in your code editor. ![GitHub Repo stars](https://img.shields.io/github/stars/stagewise-io/stagewise)
 - [Cursor MCP](https://github.com/2029193370/cursor-mcp): Multi-channel MCP sidebar for Cursor with concurrent workspaces, per-window binding, image/file attachments and session memos. ![GitHub Repo stars](https://img.shields.io/github/stars/2029193370/cursor-mcp)
+- [Yamori](https://github.com/cowana-ai/yamori): Read any code as numbered pseudocode beside your editor, every line linked to the source. Runs on your Claude Code or Codex plan, in VS Code and Cursor. ![GitHub Repo stars](https://img.shields.io/github/stars/cowana-ai/yamori)
 
 ## Plugins
 
