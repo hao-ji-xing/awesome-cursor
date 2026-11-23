@@ -81,6 +81,7 @@ A list of cursor topics.
 - [MemoryPlugin](https://help.memoryplugin.com/integrations/remote-mcp-server): Long-term memory shared between Cursor and 21+ AI tools (ChatGPT, Claude, Gemini) over MCP. Store, search, and recall memories organized in buckets; hosted remote server with OAuth or local `npx @memoryplugin/mcp-server`.
 - [Hexis](https://github.com/Bevel-Software/Hexis): Git-backed platform for skills, tools, and context for AI agents, available to Cursor through a remote OAuth MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/Bevel-Software/Hexis)
 - [ParlayAPI MCP](https://github.com/JacobiusMakes/parlay-api-mcp): Sports odds and source coverage for personal or internal research, with keyless discovery and authenticated access using your own API key. ![GitHub Repo stars](https://img.shields.io/github/stars/JacobiusMakes/parlay-api-mcp)
+- [OmniForge Launch Audit MCP](https://github.com/zColdWater/mcp-launch-audit): Pre-launch website security headers, JS bundle secret leak, SPF/DKIM/DMARC DNS, llms.txt AI search, and 78-TLD availability checks for Cursor via zero-auth remote Streamable HTTP (`https://omnipulse-x402.appwrite.network/mcp`) or local stdio. ![GitHub Repo stars](https://img.shields.io/github/stars/zColdWater/mcp-launch-audit)
 
 ## Skills
 
