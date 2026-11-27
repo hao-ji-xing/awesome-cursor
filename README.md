@@ -81,6 +81,8 @@ A list of cursor topics.
 - [MemoryPlugin](https://help.memoryplugin.com/integrations/remote-mcp-server): Long-term memory shared between Cursor and 21+ AI tools (ChatGPT, Claude, Gemini) over MCP. Store, search, and recall memories organized in buckets; hosted remote server with OAuth or local `npx @memoryplugin/mcp-server`.
 - [Hexis](https://github.com/Bevel-Software/Hexis): Git-backed platform for skills, tools, and context for AI agents, available to Cursor through a remote OAuth MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/Bevel-Software/Hexis)
 - [ParlayAPI MCP](https://github.com/JacobiusMakes/parlay-api-mcp): Sports odds and source coverage for personal or internal research, with keyless discovery and authenticated access using your own API key. ![GitHub Repo stars](https://img.shields.io/github/stars/JacobiusMakes/parlay-api-mcp)
+- [priorart](https://github.com/KhomDev/priorart): Local stdio MCP and CLI that searches audit reports and public write-ups for prior art and duplicate findings. Offline. Install: cargo install priorart. ![GitHub Repo stars](https://img.shields.io/github/stars/KhomDev/priorart)
+- [realism-gate](https://github.com/KhomDev/realism-gate): Local stdio MCP and CLI that statically checks Foundry, Solana, and Move exploit PoC tests and binds claims to evidence. Offline. Install: cargo install realism-gate. ![GitHub Repo stars](https://img.shields.io/github/stars/KhomDev/realism-gate)
 
 ## Skills
 
