@@ -35,6 +35,7 @@ A list of cursor topics.
 - [tailwind-best-practices](https://github.com/ofershap/tailwind-best-practices): Stop agents from generating Tailwind v3 code. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/tailwind-best-practices)
 - [typescript-best-practices](https://github.com/ofershap/typescript-best-practices): Modern TypeScript patterns for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/ofershap/typescript-best-practices)
 - [NEDIO](https://marketplace.visualstudio.com/items?itemName=nedio.pomodoro-focus-music) : Pomodoro timer, focus music, and sprint reviews that run inside Cursor and VS Code.
+- [FeraTerra](https://github.com/FeraTerra/feraterra-sdk): Cursor plugin (`.cursor-plugin/plugin.json`) and trading skill (`skills/feraterra-trading/SKILL.md`) for sovereign CLOB perpetuals/spot, stateless cross-margin order preview, zero-capital arbitrage, and Keccak-256 + secp256k1 solvency verification, paired with a 24-tool MCP server (`npx -y github:FeraTerra/feraterra-mcp`). ![GitHub Repo stars](https://img.shields.io/github/stars/FeraTerra/feraterra-sdk)
 
 ## Rules
 
